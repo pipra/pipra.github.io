@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    font-family: Arial;
+}
+
+.about {
+    background-color: blueviolet;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 800px;
+}
+.about .photo {
+    margin-left: 1000px;
+    height: 800px;
+    background-color: white;
+    width: 820px;
+    background-image: url(assestes/photo1.jpg);
+    background-size: cover;
+    display: inline-block;
+}
+.about .name {
+    margin-top: -400px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: whitesmoke;
+    width: 410px;
+    background-color: black;
+}
